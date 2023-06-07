@@ -1,0 +1,54 @@
+* {
+  font-family: Calibri, Verdana, Geneva, Tahoma, sans-serif;
+}
+
+body {
+  background-color: hsl(80, 4%, 69%);
+}
+
+h1 {
+  font-size: 50px;
+  background-color: rgb(113, 113, 113);
+  text-align: center;
+}
+
+h3,
+h4 {
+  text-align: center;
+}
+
+ol,
+ul {
+  padding: 0;
+}
+
+ol li,
+ul li {
+  text-align: center;
+  list-style-type: none;
+  font-size: 15px;
+  margin: 0;
+}
+
+a:link {
+  font-size: 40px;
+  text-decoration: none;
+  color: black;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+a:active {
+  text-decoration: underline;
+}
+
+img {
+  margin: auto;
+  display: block;
+}
